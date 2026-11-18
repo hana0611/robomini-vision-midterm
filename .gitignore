@@ -1,0 +1,7 @@
+evidence/
+提交/
+__pycache__/
+*.pyc
+upstream/
+sources/
+*.zip
